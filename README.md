@@ -53,7 +53,7 @@ To set up the project environment, follow these steps:
 >
 > Copy code
 >
-> git clone https://github.com/yourusername/price-prediction.git
+> git clone  https://github.com/nanduri19/Data-Science-Project-Using-Gold-And-Bitcoin
 >
 > cd price-prediction
 
